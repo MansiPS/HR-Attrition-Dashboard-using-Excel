@@ -50,63 +50,65 @@ The HR Attrition Dataset is a Excel File, featuring Comprehensive and Meticulous
 When we examine the Data, we observe a number of Different Columns.
 
 - Attrition : The Rate at which Employees leave the Company over a Specified period.
-- Business Travel : The frequency and extent of travel required for the job.
-CF_age band: Categories that group employees based on their age ranges.
-CF_attrition label: Classification indicating whether an employee is likely to leave or stay.
-Department: The specific division or function within the organization where an employee works.
-Education Field: The area of study or specialization an employee's education pertains to.
-emp no: Unique identifier assigned to each employee.
-Employee Number: A unique number assigned to identify employees within the organization.
-Gender: The gender classification of the employee.
-Job Role: The specific position or function an employee holds within the company.
-Marital Status: The current relationship status of the employee (e.g., single, married).
-Over Time: Whether the employee works beyond their regular hours.
-Over18: Indicates whether the employee is above 18 years old.
-Training Times Last Year: The number of training sessions or programs the employee attended in the past year.
-Age: The current age of the employee.
-CF_current Employee: A label indicating if an individual is currently employed with the company.
-Daily Rate: The amount of money an employee earns per day.
-Distance From Home: The geographical distance between the employee's home and workplace.
-Education: The highest level of schooling or qualifications the employee has achieved.
-Employee Count: The total number of employees within a specific category or department.
-Environment Satisfaction: The employee’s satisfaction with their work environment.
-Hourly Rate: The amount of money an employee earns per hour of work.
-Job Involvement: The degree to which employees are engaged and enthusiastic about their job.
-Job Level: The hierarchical position or rank of the employee within the company.
-Job Satisfaction: The overall contentment an employee feels about their job.
-Monthly Income: The total earnings of the employee per month.
-Monthly Rate: The compensation amount an employee receives on a monthly basis.
-Num Companies Worked: The number of different companies an employee has worked for in their career.
-Percent Salary Hike: The percentage increase in the employee's salary compared to previous periods.
-Performance Rating: An evaluation score reflecting the employee’s job performance.
-Relationship Satisfaction: The degree of satisfaction the employee feels in their relationships with colleagues and supervisors.
-Standard Hours: The regular number of hours an employee is expected to work in a standard workweek.
-Stock Option Level: The level of stock options granted to the employee as part of their compensation package.
-Total Working Years: The cumulative number of years an employee has been employed in their career.
-Work Life Balance: The employee's ability to manage work responsibilities alongside personal life.
-Years At Company: The number of years the employee has been with the current company.
-Years In Current Role: The number of years the employee has been in their current job role.
-Years Since Last Promotion: The number of years since the employee was last promoted within the company.
-Years With Curr Manager: The number of years the employee has been working under their current manager.
+- Business Travel : The Frequency and Extent of Travel required for the Job.
+- CF_Age Band : Categories that Group Employees based on their Age Ranges.
+- CF_Attrition Label : Classification indicating whether an Employee is likely to Leave or Stay.
+- Department : The Specific Division or Function within the Organization where an Employee works.
+- Education Field : The Area of Study or Specialization an Employee's Education pertains to.
+- Emp no : Unique Identifier assigned to each Employee.
+- Employee Number : A Unique Number assigned to Identify employees within the Organization.
+- Gender : The Gender classification of the Employee.
+- Job Role : The Specific Position or Function an Employee holds within the Company.
+- Marital Status : The Current Relationship Status of the Employee.
+- Over Time : Whether the Employee works beyond their Regular hours.
+- Over18 : Indicates whether the Employee is Above 18 years old.
+- Training Times Last Years : The Number of Training Sessions or Programs the Employee attended in the Past Year.
+- Age : The Current Age of the Employee.
+- CF_current Employee : A Label indicating if an individual is Currently Employed with the Company.
+- Daily Rate : The Amount of Money an Employee earns per Day.
+- Distance From Home : The Geographical distance between the Employee's Home and Workplace.
+- Education : The Highest Level of Schooling or Qualifications the Employee has achieved.
+- Employee Count : The Total number of Employees within a Specific Category or Department.
+- Environment Satisfaction : The Employee’s Satisfaction with their Work Environment.
+- Hourly Rate : The Amount of Money an Employee earns per Hour of Work.
+- Job Involvement : The Degree to which Employees are Engaged and Enthusiastic about their Job.
+- Job Level : The Hierarchical Position or Rank of the Employee within the Company.
+- Job Satisfaction : The Overall contentment an Employee feels about their Job.
+- Monthly Income : The Total Earnings of the Employee per Month.
+- Monthly Rate : The Compensation Amount an Employee receives on a Monthly basis.
+- Num Companies Worked : The Number of Different Companies an Employee has worked for in their Career.
+- Percent Salary Hike : The Percentage increase in the Employee's Salary compared to Previous Periods.
+- Performance Rating : An Evaluation Score reflecting the Employee’s Job Performance.
+- Relationship Satisfaction : The Degree of Satisfaction the Employee feels in their Relationships with Colleagues and Supervisors.
+- Standard Hours : The Regular number of hours an Employee is Expected to work in a Standard Workweek.
+- Stock Option Level : The Level of Stock options granted to the Employee as part of their Compensation Package.
+- Total Working Years : The Cumulative number of Years an Employee has been Employed in their Career.
+- Work Life Balance : The Employee's Ability to Manage work Responsibilities alongside Personal Life.
+- Years At Company : The Number of Years the Employee has been with the Current Company.
+- Years In Current Role : The Number of Years the Employee has been in their Current Job Role.
+- Years Since Last Promotion : The Number of Years since the Employee was Last promoted within the Company.
+- Years With Curr Manager : The Number of Years the Employee has been working under their Current Manager.
   
 # Requirement
 
-- ✅ Employees Count🧑🧔🏻👩👩🏻‍💼
-- ✅ Attrition Count 
-- ✅ Attrition Rate 
-- ✅ Active Eployees 
-- ✅ Avg Age 
-- ✅ Attrition by Gender 👨🏻‍💻👩🏻‍💻
-- ✅ Department-wise Attrition
-- ✅ No of Employees by Age Group 
-- ✅ Job Satisfaction Ratings 
-- ✅ Education Field wise Attrition 👨🏻‍💻
-- ✅ Attrition Rate by Gender for Different Age Group
+- ✅ Total Employees 🧑🧔🏻👩👩🏻‍💼
+- ✅ Total Employees Attrition Rate 
+- ✅ Total Active Employees 👨🏻‍💻👩🏻‍💻
+- ✅ Avg Age of Employees 
+- ✅ Total Attrition by High Performance 📈
+- ✅ Total Attrition by Low Performance 📉
+- ✅ Total Attrition by Work Distance
+- ✅ Total Attrition by Employees Job Role
+- ✅ Total Attrition by Employees Education 👨🏻‍🎓📚
+- ✅ Total Attrition by Employees Business Travel
+- ✅ Total Attrition by Employees Gender
+- ✅ Total Attrition by Department 📝
+- ✅ Total Attrition by Employees Age Group and Gender 👦🏻👩🏻
 
 # ✅ Installation : ETL Tools ✅
 
-Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Tableau Public.
-- Tableau Public Installation Link :- https://www.tableau.com/tableau-login-hub
+Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in Excel.
+- MS Excel Installation Link :- https://www.microsoft.com/en-in/microsoft-365/excel
   
 # 🧹 Data Cleaning ✨
 
@@ -114,33 +116,29 @@ Using the Raw Data, I crafted an Insightful and Visually Compelling Dashboard in
 - Removed Duplicates.
 - Replaced data with meaningful data etc.📝
 - Applied Sorting and Filters📶
-- Created New Measures
 
 # 🚀 My Project
 
 Comprehensive Analysis has been conducted on the Dataset, illustrated through a Variety of Engaging Plots📊📈. 
 
-![Dashboard](https://github.com/user-attachments/assets/0462c355-6e62-4423-9127-c2734e01c26d)
+![Dashboard](https://github.com/user-attachments/assets/357b5c38-53c5-4615-b1af-89564db20825)
 
-Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Education🎓📚💡 Category and Age Bin⏳.
+Additionally, the Dashboard offers Customizable filters for Enhanced Data Exploration by Different Department🎓📚💡 and Gender👩🏻‍💻👨🏻‍💻.
 
-This Illustrates the Analysis of Education with "Bachelor's Degree". 📍
-![Analysis 1](https://github.com/user-attachments/assets/3512ff70-9fec-4624-b8c2-2788d6b3892e)
+This Illustrates the Analysis with "Female" Employees. 📍
+![Analytics 1](https://github.com/user-attachments/assets/6a83943c-0fc0-4166-8bc7-dc4638c37a65)
 
-This Illustrates the Analysis of Education with "Master's Degree". 📍
-![Analysis 2](https://github.com/user-attachments/assets/474ea28f-ae3f-489d-8a9a-1c786f7c1222)
+This Illustrates the Analysis with "Male" Employees. 📍
+![Analytics 2](https://github.com/user-attachments/assets/2857b530-f5fb-43b0-8d61-019df599f8e8)
 
-This Illustrates the Analysis of Education with "Associates Degree". 📍
-![Analysis 3](https://github.com/user-attachments/assets/05e2dd58-4335-4cd4-b8b5-528f729a2f28)
+This Illustrates the Analysis with "HR" Department. 📍
+![Analytics 3](https://github.com/user-attachments/assets/ab67156c-012b-4f73-b694-a0258a862cdb)
 
-This Illustrates the Analysis of Education with only "High School". 📍
-![Analysis 4](https://github.com/user-attachments/assets/3e928c70-da68-45e4-b08d-ebc7aa12c01f)
+This Illustrates the Analysis with "R&D" Department. 📍
+![Analytics 4](https://github.com/user-attachments/assets/2a898595-8bad-43cb-ae5c-d8998e2c5616) 
 
-This Illustrates the Analysis with Age Bin as "5" in No of Employees by Age Group. 📍
-![Analysis 5](https://github.com/user-attachments/assets/8e737d94-6206-422a-9664-fbe6eb1d4ea7)
-
-This Illustrates the Analysis with Age Bin as "10" in No of Employees by Age Group. 📍
-![Analysis 6](https://github.com/user-attachments/assets/662e4ae2-f71d-449c-9373-e12085f9ab0c)
+This Illustrates the Analysis with "Sales" Department. 📍
+![Analytics 5](https://github.com/user-attachments/assets/fcd66e89-881d-4a71-8c50-bcceed9fd4ce)
 
 # Author 🙎‍♀️  
 
