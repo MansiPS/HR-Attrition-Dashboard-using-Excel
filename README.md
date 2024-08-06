@@ -41,53 +41,53 @@ Driven by a Profound Interest in Data-driven Solutions, this Project not only Fu
 
 # ⏳ Dataset
 
-The HR Analytics Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
+The HR Attrition Dataset is a Excel File, featuring Comprehensive and Meticulously Detailed Sheet.
 - Kindly Access and Download the Dataset via the Link provided below
-- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16495052/Raw.Data.xlsx)
+- Raw Data Link :- [Raw Data.xlsx](https://github.com/user-attachments/files/16505138/Raw.Data.xlsx)
   
 ## 📑 Dataset Description
 
 When we examine the Data, we observe a number of Different Columns.
 
-- Attrition : The Rate at which Employees Leave a Company, either Voluntarily or Involuntarily.
-- Business Travel : The Extent or Frequency of Travel required for an Employee’s job.
-- CF Age Band : A Categorized Age Range for Employees.
-- CF_Attrition label : A Label Indicating whether an Employee has left the Company (Attrition) or is still Employed.
-- Department : The specific Department or Division within the Organization where an Employee works.
-- Education Field : The Academic Discipline or Field of Study in which the Employee holds a Degree.
-- Emp No : Employee Number, a Unique Identifier assigned to each Employee.
-- Employee Number : The same as 'Emp No', a Unique Identifier for an Employee.
-- Gender : The Gender of the Employee.
-- Job Role : The Position or Title held by the Employee within the Company.
-- Marital Status : The Employee’s Marital Status.
-- Over Time : Indicates whether the Employee works Overtime.
-- Over18 : Indicates whether the Employee is over 18 Years of Age.
-- Training Times Last Year : The Number of Training Sessions or Courses an Employee Completed in the Past Year.
-- Age : The Age of the Employee.
-- CF_Current Employee : A Label indicating whether the Employee is Currently Employed by the Company.
-- Daily Rate : The Employee’s Daily pay Rate.
-- Distance From Home : The Distance between the Employee’s Home and the Workplace.
-- Education : The Highest level of Education attained by the Employee.
-- Employee Count : The Total number of Employees in the Dataset or Organization.
-- Environment Satisfaction : A Measure of how satisfied Employees are with their work Environment.
-- Hourly Rate : The Employee’s pay rate per hour.
-- Job Involvement : The Degree to which an Employee is involved and engaged with their Job.
-- Job Level : The level of the job within the organization’s hierarchy (e.g., Entry-level, Manager, Senior Executive).
-- Job Satisfaction : A Measure of how satisfied the Employee is with their job.
-- Monthly Income : The Total Income an Employee earns per Month.
-- Monthly Rate : The Employee’s pay rate per Month.
-- No Companies Worked : The Number of Different Companies the Employee has worked for in their Career.
-- Percent Salary Hike : The Percentage increase in Salary an Employee Receives, usually during a Performance Review.
-- Performance Rating : The Rating given to the Employee’s Performance often used in Performance Evaluations.
-- Relationship Satisfaction : The Level of Satisfaction an Employee has with their Work Relationships.
-- Standard Hours : The Standard number of Working Hours expected per Week.
-- Stock Option Level : The Level of Stock options granted to the Employee.
-- Total Working Years: The total number of years the employee has worked in their career.
-- Work Life Balance : A Measure of how well the Employee can balance work demands with Personal Life.
-- Years At Company: The Number of Years the Employee has worked at the Current Company.
-- Years In Current Role : The Number of Years the Employee has been in their Current Job Role.
-- Years Since Last Promotion : The Number of Years since the Employee’s Last Promotion.
-- Years With Curr Manager : The Number of Years the Employee has worked with their Current Manager.
+- Attrition : The Rate at which Employees leave the Company over a Specified period.
+- Business Travel : The frequency and extent of travel required for the job.
+CF_age band: Categories that group employees based on their age ranges.
+CF_attrition label: Classification indicating whether an employee is likely to leave or stay.
+Department: The specific division or function within the organization where an employee works.
+Education Field: The area of study or specialization an employee's education pertains to.
+emp no: Unique identifier assigned to each employee.
+Employee Number: A unique number assigned to identify employees within the organization.
+Gender: The gender classification of the employee.
+Job Role: The specific position or function an employee holds within the company.
+Marital Status: The current relationship status of the employee (e.g., single, married).
+Over Time: Whether the employee works beyond their regular hours.
+Over18: Indicates whether the employee is above 18 years old.
+Training Times Last Year: The number of training sessions or programs the employee attended in the past year.
+Age: The current age of the employee.
+CF_current Employee: A label indicating if an individual is currently employed with the company.
+Daily Rate: The amount of money an employee earns per day.
+Distance From Home: The geographical distance between the employee's home and workplace.
+Education: The highest level of schooling or qualifications the employee has achieved.
+Employee Count: The total number of employees within a specific category or department.
+Environment Satisfaction: The employee’s satisfaction with their work environment.
+Hourly Rate: The amount of money an employee earns per hour of work.
+Job Involvement: The degree to which employees are engaged and enthusiastic about their job.
+Job Level: The hierarchical position or rank of the employee within the company.
+Job Satisfaction: The overall contentment an employee feels about their job.
+Monthly Income: The total earnings of the employee per month.
+Monthly Rate: The compensation amount an employee receives on a monthly basis.
+Num Companies Worked: The number of different companies an employee has worked for in their career.
+Percent Salary Hike: The percentage increase in the employee's salary compared to previous periods.
+Performance Rating: An evaluation score reflecting the employee’s job performance.
+Relationship Satisfaction: The degree of satisfaction the employee feels in their relationships with colleagues and supervisors.
+Standard Hours: The regular number of hours an employee is expected to work in a standard workweek.
+Stock Option Level: The level of stock options granted to the employee as part of their compensation package.
+Total Working Years: The cumulative number of years an employee has been employed in their career.
+Work Life Balance: The employee's ability to manage work responsibilities alongside personal life.
+Years At Company: The number of years the employee has been with the current company.
+Years In Current Role: The number of years the employee has been in their current job role.
+Years Since Last Promotion: The number of years since the employee was last promoted within the company.
+Years With Curr Manager: The number of years the employee has been working under their current manager.
   
 # Requirement
 
